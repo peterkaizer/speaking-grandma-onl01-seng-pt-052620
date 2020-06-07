@@ -22,10 +22,10 @@ def speak_to_grandma(phrase)
   end
 end
     print "I LOVE YOU TOO PUMPKIN!"
-  elsif "#{phrase}" != "#{phrase}".upcase
-    print "HUH?! SPEAK UP, SONNY!"
-  else
-    print "I LOVE YOU TOO PUMPKIN!"
-  end
-end
+#   elsif "#{phrase}" != "#{phrase}".upcase
+#     print "HUH?! SPEAK UP, SONNY!"
+#   else
+#     print "I LOVE YOU TOO PUMPKIN!"
+#   end
+# end
     
